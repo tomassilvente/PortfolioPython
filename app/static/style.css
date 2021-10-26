@@ -108,7 +108,7 @@ a.btn{
     width: 1200px;
 }
 .row{
-    position: static;
+    position: fixed;
     display:flex;
     flex-direction: row;
 }
@@ -134,7 +134,7 @@ a.btn{
 }
 
 .contact-form input{
-    position: static;
+    position: fixed;
     font-family: 'Rubik', sans-serif;
     border: none;
     height: 30px;
@@ -145,7 +145,7 @@ a.btn{
 }
 
 .contact-form textarea{
-    position: static;
+    position: fixed;
     font-family: 'Rubik', sans-serif;
     border: none;
     height: 100px;
