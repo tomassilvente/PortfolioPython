@@ -1,5 +1,5 @@
 html{
-    position: relative;
+    position: fixed;
     font-family: 'Rufina', sans-serif;
     scroll-behavior: smooth;
 }
