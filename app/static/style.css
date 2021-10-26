@@ -54,7 +54,7 @@ html body nav ul li a{
 }
 
 .hero{
-    position:static;
+    position:relative;
     z-index: 1;
     display: flex;
     background-color: #fff;
@@ -99,7 +99,7 @@ a.btn{
 }
 
 .center{
-    position: static;
+    position: relative;
     display: flex;
     justify-content: center;
 }
@@ -108,7 +108,7 @@ a.btn{
     width: 1200px;
 }
 .row{
-    position: fixed;
+    position: relative;
     display:flex;
     flex-direction: row;
 }
@@ -134,7 +134,7 @@ a.btn{
 }
 
 .contact-form input{
-    position: fixed;
+    position: relative;
     font-family: 'Rubik', sans-serif;
     border: none;
     height: 30px;
@@ -145,7 +145,7 @@ a.btn{
 }
 
 .contact-form textarea{
-    position: fixed;
+    position: relative;
     font-family: 'Rubik', sans-serif;
     border: none;
     height: 100px;
