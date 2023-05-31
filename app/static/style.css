@@ -23,7 +23,7 @@ a:hover{
 }
 
 html body header{
-    display: flex;
+    display:block;
     justify-content: space-between;
     background-color: #fff ;
     box-shadow: 3px 1px 5px rgb(114, 113, 113);
